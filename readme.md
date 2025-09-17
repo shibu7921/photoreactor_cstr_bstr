@@ -4,4 +4,5 @@ This project contains two Arduino sketches, bstr and cstr, which utilize the HX7
 
 The HX711_ADC library is licensed under the MIT License. See the library repository for details.
 
-[text](https://github.com/olkal/HX711_ADC)
+[HX711 LOAD CELL LIBRARY REPOSITORY](https://github.com/olkal/HX711_ADC)
+[LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C.git)
